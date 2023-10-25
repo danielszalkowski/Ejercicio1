@@ -68,32 +68,32 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="30dp"
-            android:text="Texto 1"
-            android:textAlignment="center"
-            android:textColor="@color/dark_gray"
-            android:textSize="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:text="Texto 1"
+                android:textAlignment="center"
+                android:textColor="@color/dark_gray"
+                android:textSize="20dp" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="30dp"
-            android:text="Texto 2"
-            android:textAlignment="center"
-            android:textColor="@color/dark_gray"
-            android:textSize="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:text="Texto 2"
+                android:textAlignment="center"
+                android:textColor="@color/dark_gray"
+                android:textSize="20dp" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="30dp"
-            android:text="Texto 3"
-            android:textAlignment="center"
-            android:textColor="@color/dark_gray"
-            android:textSize="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:text="Texto 3"
+                android:textAlignment="center"
+                android:textColor="@color/dark_gray"
+                android:textSize="20dp" />
 
         </LinearLayout>
 
